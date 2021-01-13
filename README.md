@@ -1,4 +1,4 @@
-# Using Embedded sensors to detect and avoid obstacles using Mini-Lab and ROS.
+# Using Mini-Lab embedded sensors and ROS to detect and avoid obstacles.
 
 ![plot](Mini-Lab_Gui/minilab.png)
 
