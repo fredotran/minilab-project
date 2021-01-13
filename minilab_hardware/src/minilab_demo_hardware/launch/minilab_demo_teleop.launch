@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<launch>
+	<include file="$(find minilab_driver)/launch/minilab_driver.launch" />
+
+	<node pkg="minilab_teleop" type="keyboard_teleop_ZQSD" name="keyboard_teleop_ZQSD"  output="screen"/>
+
+</launch>
