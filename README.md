@@ -6,11 +6,11 @@ This repository contains my working project on the [Mini-Lab rover](https://enov
 
 ## Setup the workspace with ROS.
 
-There is already a very nice tutorial page you can find here : https://wiki.ros.org/Mini-Lab/Tutorials/Workstation_installation to setup your workstation and use the robot with ROS packages.
+There is already a very nice tutorial page you can find [here](https://wiki.ros.org/Mini-Lab/Tutorials/Workstation_installation) to setup your workstation and use the robot with ROS packages.
 
 ## Objectives.
 
-For this work, we had the 2-wheeled mobile robot Minilab which is equipped with two sensors :  a*** LIDAR sensor*** and a ***RGB-camera sensor***.
+For this work, we had the 2-wheeled mobile robot Minilab which is equipped with two sensors :  a ***LIDAR sensor*** and a ***RGB-camera sensor***.
 We controlled the robot using an ROS interface coding in Python with a pre-existed architecture and we are only using the LIDAR sensor for collecting data of the rover's position and angles.
 
 **We had three main objectives to complete in this practical work  :**
@@ -21,7 +21,7 @@ We controlled the robot using an ROS interface coding in Python with a pre-exist
 
 ## Results
 
-The final programming can be found in these files : **[obstacle_avoidance_hokuyo.py]()** and **[tracking_target.py]()**
+The final programming can be found in these files : **[obstacle_avoidance_hokuyo.py](https://github.com/fredotran/minilab-project/blob/main/obstacle_avoidance_hokuyo.py)** and **[tracking_target.py](https://github.com/fredotran/minilab-project/blob/main/tracking_target.py)**
 
 
 ## About 
